@@ -8,7 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 <p align="center">
-  <img src="https://github.com/irs22/QR-code-component-solution/blob/main/design/desktop-design.jpg" width="768" title="Desktop Design">
+  </br>
+  <img src="https://github.com/irs22/QR-code-component-solution/blob/main/design/desktop-design.jpg" width="768" title="Desktop Design" style='border-radius: 8px;'>
   </br>
 </p>
 
