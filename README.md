@@ -2,20 +2,6 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -23,9 +9,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.jpg)
 
-![1675581827331](image/README/1675581827331.png)
+![1675581827331]([image/README/1675581827331.png](https://github.com/irs22/QR-code-component-solution/blob/main/design/desktop-design.jpg))
 
-    ![1675581849479](image/README/1675581849479.png)
+    ![1675581849479]([image/README/1675581849479.png](https://github.com/irs22/QR-code-component-solution/blob/main/design/mobile-design.jpg))
 
 ## My process
 
