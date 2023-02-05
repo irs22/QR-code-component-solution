@@ -7,9 +7,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Desktop Design](https://github.com/irs22/QR-code-component-solution/blob/main/design/desktop-design.jpg)
-
-![Mobile Design](https://github.com/irs22/QR-code-component-solution/blob/main/design/mobile-design.jpg)
+<p align="center">
+  <img src="https://github.com/irs22/QR-code-component-solution/blob/main/design/desktop-design.jpg" width="350" title="Desktop Design">
+  <img src="https://github.com/irs22/QR-code-component-solution/blob/main/design/mobile-design.jpg" width="350" alt="Mobile Design">
+</p>
 
 ## My process
 
