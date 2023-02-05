@@ -7,11 +7,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Destop Design]([http://url/to/img.png](https://github.com/irs22/QR-code-component-solution/blob/main/design/desktop-design.jpg))
 
-![1675581827331]([image/README/1675581827331.png](https://github.com/irs22/QR-code-component-solution/blob/main/design/desktop-design.jpg))
-
-    ![1675581849479]([image/README/1675581849479.png](https://github.com/irs22/QR-code-component-solution/blob/main/design/mobile-design.jpg))
+![Mobile Design](https://github.com/irs22/QR-code-component-solution/blob/main/design/mobile-design.jpg)
 
 ## My process
 
