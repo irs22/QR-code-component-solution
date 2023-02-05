@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Destop Design]([http://url/to/img.png](https://github.com/irs22/QR-code-component-solution/blob/main/design/desktop-design.jpg))
+![Desktop Design](https://github.com/irs22/QR-code-component-solution/blob/main/design/desktop-design.jpg)
 
 ![Mobile Design](https://github.com/irs22/QR-code-component-solution/blob/main/design/mobile-design.jpg)
 
