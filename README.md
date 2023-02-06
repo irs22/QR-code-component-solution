@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Irusha pekshana](http://irusha.ml)
+- Website - [Irusha pekshana]()
 - Frontend Mentor - [@irs-sl](https://www.frontendmentor.io/profile/irs-sl)
 - Telegram- [@irusha_p](https://t.me/irusha_p)
 
